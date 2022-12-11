@@ -1,0 +1,22 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashi-xD/simple-qrcode-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashi-xD/simple-qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/ashi-xD/simple-qrcode-generator/#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "4.4.0"
+  }
+}
